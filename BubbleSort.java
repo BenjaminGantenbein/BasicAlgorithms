@@ -1,3 +1,5 @@
+//Author: Benjamin Gantenbein
+
 import java.util.Arrays;
 
 public class BubbleSort{
