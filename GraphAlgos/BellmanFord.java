@@ -34,11 +34,11 @@
 		return false;
 		
 	}
-static class Edge{
-  int dest;
-  int weight;
-  Edge(int dest, int weight){
-    this.dest = dest;
-    this.weight = weight;
-  }
-}
+	static class Edge{
+	  int dest;
+	  int weight;
+	  Edge(int dest, int weight){
+	    this.dest = dest;
+	    this.weight = weight;
+	  }
+	}
