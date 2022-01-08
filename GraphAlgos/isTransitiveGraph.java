@@ -1,3 +1,6 @@
+	
+	//Graph stored in Adjacency Matrix matrix 
+
 	public static boolean isTransitiveRelation() {
 
 		for (int i = 0; i < n; i++) {
